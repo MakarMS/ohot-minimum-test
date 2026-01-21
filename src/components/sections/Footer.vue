@@ -9,7 +9,7 @@
         Исходники доступны на
         <a
             class="footer-link text-primary"
-            href="https://github.com/MakarMS/ohot-minimum-test"
+            href="https://clyado.com/go/AEzSNYx5pD"
             rel="noopener noreferrer"
             target="_blank"
         >
