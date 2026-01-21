@@ -4,6 +4,7 @@ networks:
 
 services:
   app:
+    restart: unless-stopped
     build:
       context: .
       dockerfile: ./docker/app/Dockerfile
@@ -21,4 +22,3 @@ services:
       - TZ=Europe/Moscow
     volumes:
       - ./logs:/var/log/nginx
-    restart: always
