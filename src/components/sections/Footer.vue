@@ -9,7 +9,7 @@
         Исходники доступны на
         <a
             class="footer-link text-primary"
-            href="https://clyado.com/go/AEzSNYx5pD"
+            href="https://clyado.com/go/azzPLchz0k"
             rel="noopener noreferrer"
             target="_blank"
         >
